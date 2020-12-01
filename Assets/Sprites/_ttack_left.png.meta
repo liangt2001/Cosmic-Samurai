@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: bb6f43b4ca8166943bee4baf8638b626
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2418436858327067875
+    second: _ttack_left_0
+  - first:
+      213: 1642770404540231562
+    second: _ttack_left_1
+  - first:
+      213: 8206923387179908402
+    second: _ttack_left_2
+  - first:
+      213: 1283866704038061095
+    second: _ttack_left_3
+  - first:
+      213: 3310095513495829115
+    second: _ttack_left_4
+  - first:
+      213: -5630471434793874419
+    second: _ttack_left_5
+  - first:
+      213: 8863562629754596183
+    second: _ttack_left_6
+  - first:
+      213: -1518075187779109588
+    second: _ttack_left_7
+  - first:
+      213: -8493822015996021166
+    second: _ttack_left_8
+  - first:
+      213: -3793360543673323688
+    second: _ttack_left_9
+  - first:
+      213: 7757819179831292061
+    second: _ttack_left_0
+  - first:
+      213: 8601444021686246028
+    second: _ttack_left_1
+  - first:
+      213: 2917320489324553580
+    second: _ttack_left_2
+  - first:
+      213: -1233722748618524141
+    second: _ttack_left_3
+  - first:
+      213: -6737111605446640260
+    second: _ttack_left_4
+  - first:
+      213: 5890693203010994174
+    second: _ttack_left_5
+  - first:
+      213: -6259351095097658864
+    second: _ttack_left_6
+  - first:
+      213: -4866350149706595156
+    second: _ttack_left_8
+  - first:
+      213: 439298355195894452
+    second: _ttack_left_9
+  - first:
+      213: 1259068038002976963
+    second: _ttack_left_10
+  - first:
+      213: 6547442591065157285
+    second: _ttack_left_11
+  - first:
+      213: 6630208247771493401
+    second: _ttack_left_12
+  - first:
+      213: 4523189289010230569
+    second: _ttack_left_13
+  - first:
+      213: -9170483002246652877
+    second: _ttack_left_14
+  - first:
+      213: 8518062199473106463
+    second: _ttack_left_15
+  - first:
+      213: 599767680164840724
+    second: _ttack_left_16
+  - first:
+      213: 1684183143716055968
+    second: _ttack_left_17
+  - first:
+      213: -9096983976405316110
+    second: _ttack_left_18
+  - first:
+      213: 4747428623718644207
+    second: _ttack_left_19
+  - first:
+      213: 1193795845233013570
+    second: _ttack_left_20
+  - first:
+      213: -1266070349704420921
+    second: _ttack_left_21
+  - first:
+      213: 6396154010373099925
+    second: _ttack_left_22
+  - first:
+      213: -7734202661156263689
+    second: _ttack_left_23
+  - first:
+      213: -8459860255172253214
+    second: _ttack_left_24
+  - first:
+      213: -5056558995791675343
+    second: _ttack_left_25
+  - first:
+      213: -5278148634446582824
+    second: _ttack_left_26
+  - first:
+      213: -5026533047896548377
+    second: _ttack_left_27
+  - first:
+      213: -127941025643841848
+    second: _ttack_left_28
+  - first:
+      213: 8368863218228476018
+    second: _ttack_left_29
+  - first:
+      213: 870665728911682439
+    second: _ttack_left_30
+  - first:
+      213: 5483925615185056950
+    second: _ttack_left_31
+  - first:
+      213: -3372585540006244490
+    second: _ttack_left_32
+  - first:
+      213: -3861820689449354470
+    second: _ttack_left_33
+  - first:
+      213: -6508394917792816896
+    second: _ttack_left_34
+  - first:
+      213: -6371205353577963322
+    second: _ttack_left_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _ttack_left_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1314b3ad7cff6ed0800000000000000
+      internalID: -2418436858327067875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ttack_left_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 18
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f252aaafa4cc610800000000000000
+      internalID: 1642770404540231562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ttack_left_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 18
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d34b7a659d4e170800000000000000
+      internalID: 8206923387179908402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ttack_left_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 18
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724e32117f531d110800000000000000
+      internalID: 1283866704038061095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ttack_left_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 18
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a7886f452dfed20800000000000000
+      internalID: 3310095513495829115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ttack_left_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 18
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c8023cf0c8cd1b0800000000000000
+      internalID: -5630471434793874419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ttack_left_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 18
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b23f62043b10b70800000000000000
+      internalID: 8863562629754596183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ttack_left_8
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 18
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2563a2fe0e1ef1a80800000000000000
+      internalID: -8493822015996021166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ttack_left_9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 18
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f6e510fa64b5bc0800000000000000
+      internalID: -3793360543673323688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
